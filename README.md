@@ -1,4 +1,4 @@
-# Infected Repository
+# Infected Repository —͟͞𝐌𝐔𝐑𝐁𝐔𝐆 || 𝐗𝐄𝐌𝐎𝐗𝐙
 
 This repository is designed to test the security of applications that process user queries and clone repositories.
 
